@@ -1,0 +1,111 @@
+export const PROPERTIES = [
+  {
+    id: "1",
+    title: "Apartamento en Santiago Centro",
+    address: "Santiago Centro, RM",
+    price: 450000,
+    bedrooms: 2,
+    bathrooms: 1,
+    image:
+      "https://www.agentadvice.com/wp-content/uploads/2020/12/shutterstock_1247473441-600x375.jpg",
+    area: "120",
+  },
+  {
+    id: "2",
+    title: "Casa en Ñuñoa",
+    address: "Ñuñoa, RM",
+    price: 650000,
+    bedrooms: 3,
+    bathrooms: 2,
+    image:
+      "https://images.ctfassets.net/n2ifzifcqscw/3QRMlAcJFrYAEAbhziixZW/d4b9aa50215c5ea7a161b8a6b59f1974/hero-real-estate-facts-trends.jpeg",
+    area: "120",
+  },
+  {
+    id: "3",
+    title: "Departamento en Providencia",
+    address: "Providencia, RM",
+    price: 520000,
+    bedrooms: 2,
+    bathrooms: 1,
+    image:
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+    area: "120",
+  },
+  {
+    id: "4",
+    title: "Casa en Las Condes",
+    address: "Las Condes, RM",
+    price: 1200000,
+    bedrooms: 4,
+    bathrooms: 3,
+    image:
+      "https://static.vecteezy.com/system/resources/previews/022/903/424/non_2x/ai-generative-3d-modern-luxury-real-estate-house-for-sale-and-rent-luxury-property-concept-ai-generated-artwork-photo.jpg",
+    area: "120",
+  },
+  {
+    id: "5",
+    title: "Apartamento en La Florida",
+    address: "La Florida, RM",
+    price: 400000,
+    bedrooms: 2,
+    bathrooms: 1,
+    image:
+      "https://static-images.remax.com/assets/web/homepage/04_PriceReductions.jpg?auto=format,compress&width=542&height=339&fill=crop&inside=crop&outside=crop&cover=bounds&contain=bounds",
+    area: "120",
+  },
+  {
+    id: "6",
+    title: "Casa en Vitacura",
+    address: "Vitacura, RM",
+    price: 1800000,
+    bedrooms: 5,
+    bathrooms: 4,
+    image: "https://freerangestock.com/sample/12653/real-estate.jpg",
+    area: "120",
+  },
+  {
+    id: "7",
+    title: "Departamento en Maipú",
+    address: "Maipú, RM",
+    price: 380000,
+    bedrooms: 1,
+    bathrooms: 1,
+    image:
+      "https://nh.rdcpix.com/e4cfcaca2fb781d64f80debef6b73b3be-f1605145128rd-w480_h360.jpg",
+    area: "120",
+  },
+  {
+    id: "8",
+    title: "Casa en Lo Barnechea",
+    address: "Lo Barnechea, RM",
+    price: 1400000,
+    bedrooms: 4,
+    bathrooms: 3,
+    image:
+      "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg",
+    area: "120",
+  },
+  {
+    id: "9",
+    title: "Apartamento en Recoleta",
+    address: "Recoleta, RM",
+    price: 360000,
+    bedrooms: 1,
+    bathrooms: 1,
+    image:
+      "https://villasharks.com/wp-content/uploads/2023/11/Ghana-real-estate-.jpg",
+    area: "120",
+  },
+  {
+    id: "10",
+    title: "Casa en Peñalolén",
+    address: "Peñalolén, RM",
+    price: 850000,
+    bedrooms: 3,
+    bathrooms: 2,
+    image:
+      "https://www.century21.com/listhub/photo/maxxmax/lh.rdcpix.com/590f4944913bfbbce799d3babf48c637l-f1617564841r.jpg",
+    area: "120",
+  },
+];
